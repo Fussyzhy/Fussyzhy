@@ -52,21 +52,22 @@
 
 ## 📊 GitHub 统计
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoming&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fussyzhy&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoming&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fussyzhy&layout=compact&theme=radical)
 
 ## 🏆 GitHub 奖杯
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xiaoming&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fussyzhy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 活动图
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xiaoming&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fussyzhy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔥 连续提交
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xiaoming&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fussyzhy&theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 访客计数
 
