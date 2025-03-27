@@ -62,7 +62,7 @@
 
 ## 🔥 连续提交
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fussyzhy&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fussyzhy&theme=sunset-gradient&hide_border=%E5%81%87&locale=zh_Hans&short_numbers=%E7%9C%9F&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 ## 🌐 访客计数
 
