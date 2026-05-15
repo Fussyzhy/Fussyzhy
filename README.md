@@ -46,13 +46,13 @@
 - 从需求分析到上线交付的完整项目流程
 - 更清晰的代码结构、更稳定的工程规范
 
-## GitHub 数据
+## GitHub 活动
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fussyzhy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fussyzhy&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fussyzhy&theme=tokyonight&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fussyzhy/Fussyzhy/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fussyzhy/Fussyzhy/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Fussyzhy/Fussyzhy/output/github-snake.svg">
+</picture>
 
 ## 联系我
 
